@@ -1,30 +1,50 @@
 # Ali Parsa — Senior Backend Engineer
 
-Building high-performance, secure backend systems with Python and Go. I design robust APIs, optimize databases, and automate delivery so products ship fast and stay reliable.
+Scalable backends with Python & Go • APIs, data, and DevOps you can trust.
 
-- Current: Programming Team Lead & Backend Developer @ istanbul-care (Oct 2025–present) — FastAPI backend, customer offer system, WhatsApp automation, AI-assisted SEO, multilingual/no-code site theming.
-- Founder & Full-Stack Developer @ Wigenzo PSC (Feb–May 2025) — End-to-end e-commerce (Django + JS), payment integrations, theme editor, SEO/performance and security hardening.
-- Backend Developer @ Hexaworks (Jan 2023–Feb 2025) — Golang code-generation architecture for MCMQ, legal case management with UYAP integration and Elasticsearch + AI analysis.
-- Application Developer @ Forward Target Media (Feb 2021–Nov 2022) — CMS/data collection bots, accounting automation, KPI dashboards, stage-based project workflows.
-- Python Developer @ Netlet (Jun–Dec 2020) — Multi-source product scraping, WooCommerce sync, resilience via rate limits, retries, and proxy rotation.
+### 🌐 Socials
 
-## Core Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jalili-parsa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myselfajp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myself_ajp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905525707128)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aliparsa.me)
+[![Email](https://img.shields.io/badge/Email-myjaliliparsa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myjaliliparsa@gmail.com)
 
-- Languages & frameworks: Python, Go, Django, FastAPI, REST API design
-- Data: PostgreSQL, MySQL, MongoDB, Redis, SQLite, Neo4j, Elasticsearch
-- Infra & DevOps: Docker, Kubernetes, AWS (EC2, S3, VPC), Nginx, CI/CD, Helm, load balancers, logging/monitoring, cache/CDN tuning
-- Security & resilience: RBAC auth, CSRF/XSS protection, rate limiting, hardening, resilience patterns
-- Automation & integrations: Web scraping, messaging APIs (Telegram/WhatsApp), payment integrations, AI/LLM integrations, business process automation, internal tools
+### 💻 Tech Stack
 
-## Highlights
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LLM/AI](https://img.shields.io/badge/AI%2FLLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
-- Scalable architectures with multiprocessing pipelines and resource-aware deployments.
-- Built no-code tools (theme editors, stage-based workflows) to empower non-dev teams.
-- Performance-minded: SEO, caching, compression, CDN, and database optimization.
-- Automation-first: bots, invoicing/contract flows, and notification systems.
+### 📊 GitHub Stats
 
-## Contact
+![](https://github-readme-stats.vercel.app/api?username=myselfajp&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=myselfajp&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfajp&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- Location: Istanbul, Turkey
-- Email: myjaliliparsa@gmail.com
-- Phone: +90 552 570 7128
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=myselfajp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br clear="both">
+
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=myselfajp&repo=github-visitors-badge&countColor=%237B1E7A)
