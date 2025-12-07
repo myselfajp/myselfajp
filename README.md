@@ -43,7 +43,7 @@ Scalable backends with Python & Go • APIs, data, and DevOps you can trust.
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=myselfajp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=myselfajp&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Experience,Commit,Repositories,Stars,Followers)
 
 <br clear="both">
 
