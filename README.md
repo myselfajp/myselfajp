@@ -1,4 +1,4 @@
-# Ali Parsa — Senior Backend Engineer
+# Ali Parsa — Developer
 
 Scalable backends with Python & Go • APIs, data, and DevOps you can trust.
 
