@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Ali Parsa - Programming Team Lead and Backend Developer">
+  <title>Ali Parsa - Programming Team Lead &amp; Backend Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#0f1a33"/>
+      <stop offset="1" stop-color="#1b1442"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.82" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.08" cy="1" r="0.5">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .fade { animation: fade .7s ease-out both; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; }
+    .d4 { animation-delay: .85s; }
+    .t1 { animation-delay: .9s; } .t2 { animation-delay: 1.4s; } .t3 { animation-delay: 2.0s; }
+    .t4 { animation-delay: 2.5s; } .t5 { animation-delay: 3.1s; } .t6 { animation-delay: 3.6s; }
+    .t7 { animation-delay: 4.1s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+    <rect width="1280" height="320" fill="url(#glowA)"/>
+    <rect width="1280" height="320" fill="url(#glowB)"/>
+    <rect x="0" y="316" width="1280" height="4" fill="url(#accent)"/>
+  </g>
+
+  <!-- Left: identity -->
+  <g class="sans">
+    <g class="fade d1">
+      <circle class="pulse" cx="79" cy="87" r="5" fill="#22c55e"/>
+      <text x="94" y="92" font-size="15" letter-spacing="3.5" fill="#94a3b8" font-weight="600">HELLO, I'M</text>
+    </g>
+    <text class="fade d2" x="72" y="158" font-size="68" font-weight="800" fill="#f8fafc" letter-spacing="-1">Ali Parsa</text>
+    <text class="fade d3" x="74" y="203" font-size="26" font-weight="700" fill="url(#accent)">Programming Team Lead &amp; Backend Developer</text>
+    <text class="fade d3" x="74" y="236" font-size="17" fill="#cbd5e1">@ Istanbul Care  ·  Istanbul, Türkiye</text>
+    <g class="fade d4" font-size="14" font-weight="600">
+      <rect x="72" y="256" width="78" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#38bdf8" stroke-opacity="0.55"/>
+      <text x="111" y="276" text-anchor="middle" fill="#e2e8f0">Python</text>
+      <rect x="160" y="256" width="50" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
+      <text x="185" y="276" text-anchor="middle" fill="#e2e8f0">Go</text>
+      <rect x="220" y="256" width="110" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#818cf8" stroke-opacity="0.55"/>
+      <text x="275" y="276" text-anchor="middle" fill="#e2e8f0">TypeScript</text>
+      <rect x="340" y="256" width="148" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#c084fc" stroke-opacity="0.55"/>
+      <text x="414" y="276" text-anchor="middle" fill="#e2e8f0">AI / LLM Agents</text>
+    </g>
+  </g>
+
+  <!-- Right: terminal -->
+  <g class="fade d2">
+    <rect x="752" y="46" width="468" height="230" rx="12" fill="#0d1117" fill-opacity="0.88" stroke="#30363d"/>
+    <path d="M752 58a12 12 0 0 1 12-12h444a12 12 0 0 1 12 12v18H752z" fill="#161b22"/>
+    <circle cx="774" cy="61" r="6" fill="#ff5f57"/>
+    <circle cx="794" cy="61" r="6" fill="#febc2e"/>
+    <circle cx="814" cy="61" r="6" fill="#28c840"/>
+    <text x="986" y="66" text-anchor="middle" class="sans" font-size="13" fill="#8b949e">~/ali-parsa — zsh</text>
+  </g>
+  <g class="mono" font-size="15">
+    <text class="fade t1" x="776" y="108"><tspan fill="#7ee787">➜</tspan><tspan fill="#79c0ff"> ~ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+    <text class="fade t2" x="776" y="132" fill="#8b949e">backend developer · team lead · 6+ yrs</text>
+    <text class="fade t3" x="776" y="162"><tspan fill="#7ee787">➜</tspan><tspan fill="#79c0ff"> ~ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
+    <text class="fade t4" x="776" y="186" fill="#8b949e">fastapi · django · go · postgres · redis</text>
+    <text class="fade t5" x="776" y="216"><tspan fill="#7ee787">➜</tspan><tspan fill="#79c0ff"> ~ </tspan><tspan fill="#e6edf3">git log --author=ali | wc -l</tspan></text>
+    <text class="fade t6" x="776" y="240" fill="#d2a8ff">3200+ commits · 75+ repositories</text>
+    <g class="fade t7">
+      <text x="776" y="264"><tspan fill="#7ee787">➜</tspan><tspan fill="#79c0ff"> ~ </tspan></text>
+      <rect class="cursor" x="812" y="251" width="9" height="17" fill="#e6edf3"/>
+    </g>
+  </g>
+</svg>
