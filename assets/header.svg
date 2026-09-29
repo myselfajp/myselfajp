@@ -179,8 +179,10 @@
       <path d="M-13 -90 C-14 -118 -12 -140 -6 -156 Q8 -164 24 -156 C22 -134 16 -112 13 -90 Z" stroke="none"/>
       <path d="M2.0 -94.0 L14.0 -50.0" fill="none" stroke-width="19"/><path d="M14.0 -50.0 L8.0 -6.0" fill="none" stroke-width="13"/>
       <ellipse cx="19" cy="-4" rx="14" ry="5" transform="rotate(0 19 -4)" stroke="none"/>
-      <path d="M18.0 -150.0 L26.0 -116.0" fill="none" stroke-width="11"/><path d="M26.0 -116.0 L28.0 -84.0" fill="none" stroke-width="9"/>
-      <ellipse cx="28" cy="-78" rx="5.5" ry="8" transform="rotate(0 28 -78)" stroke="none"/>
+      <path d="M-50 -205.5 L84 -114" fill="none" stroke-width="4.5"/>
+      <path d="M-67 -217 L-46.6 -210.5 L-53.4 -200.5 Z" stroke="none"/>
+      <path d="M18.0 -150.0 L34.0 -124.0" fill="none" stroke-width="11"/><path d="M34.0 -124.0 L34.0 -148.0" fill="none" stroke-width="9"/>
+      <circle cx="34" cy="-149" r="6" stroke="none"/>
       <path d="M18.0 -158.0 L24.0 -166.0" fill="none" stroke-width="12"/>
       <ellipse cx="30" cy="-174" rx="12" ry="13" transform="rotate(0 30 -174)" stroke="none"/>
       <ellipse cx="38" cy="-178" rx="7" ry="4" transform="rotate(-5 38 -178)" stroke="none"/>
@@ -197,10 +199,12 @@
       <path d="M3.0 -172.0 L5.0 -182.0" fill="none" stroke-width="11"/>
       <ellipse cx="7" cy="-193" rx="11.5" ry="13.5" transform="rotate(0 7 -193)" stroke="none"/>
       <circle cx="18" cy="-191" r="3" stroke="none"/>
-      <path d="M-44 -234 L74 -150" fill="none" stroke-width="4.5"/>
-      <path d="M-62 -248 L-38 -238 L-46 -226 Z" stroke="none"/>
-      <path d="M8.0 -164.0 L24.0 -142.0" fill="none" stroke-width="11"/><path d="M24.0 -142.0 L22.0 -170.0" fill="none" stroke-width="9"/>
-      <circle cx="21" cy="-171" r="6" stroke="none"/>
+      <path d="M8.0 -164.0 L22.0 -138.0" fill="none" stroke-width="11"/><path d="M22.0 -138.0 L38.0 -118.0" fill="none" stroke-width="9"/>
+      <circle cx="40" cy="-115" r="5.5" stroke="none"/>
+      <path d="M33 -106 L33 -111 Q40 -116 47 -111 L47 -106" fill="none" stroke-width="3"/>
+      <rect x="22" y="-106" width="36" height="26" rx="3" stroke="none"/>
+      <path d="M23 -96 H57" stroke="#22363c" stroke-width="1.2"/>
+      <rect x="37" y="-98.5" width="6" height="5" rx="1" fill="#22363c" stroke="none"/>
     </g>
     <ellipse cx="1104" cy="340" rx="120" ry="150" fill="url(#aura)"/>
     <mask id="binmask" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="440">
